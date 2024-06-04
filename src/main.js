@@ -3,3 +3,7 @@ import App from './App.vue'
 import router from './router'
 
 createApp(App).use(router).mount('#app')
+
+// Import Bootstrap CSS and JS files
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';

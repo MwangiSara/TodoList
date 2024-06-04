@@ -1,0 +1,6 @@
+{
+    "tasks": [
+        {"id": "1", "task":"teach", "completed": "done", "duedate":"2024-05-31", "details":"lorem"},
+        {"id": "2", "task":"exercise", "completed": "not done", "duedate":"2024-05-31", "details":"lorem"}
+    ]
+}
